@@ -63,8 +63,8 @@ Uno de los mayores desafíos al aprender un nuevo idioma es dominar la **pronunc
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/arsabot/lector-de-textos-con-ia.git
-cd lector-de-textos-con-ia
+git clone https://github.com/arsabot/VocalizAR-AI.git
+cd VocalizAR-AI
 ```
 
 ### 2. Crear y Activar un Entorno Virtual
@@ -131,7 +131,7 @@ python vocalizar_ai.py
 ## 📁 Estructura del Proyecto
 
 ```
-lector-de-textos-con-ia/
+VocalizAR-AI/
 ├── vocalizar_ai.py       # Aplicación principal (GUI CustomTkinter VocalizAR AI)
 ├── requirements.txt      # Lista de dependencias de Python
 ├── INICIAR.bat           # Lanzador rápido para Windows
