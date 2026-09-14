@@ -2122,7 +2122,7 @@ ctk.set_default_color_theme("blue")
 app = ctk.CTk()
 app.geometry("980x960")
 app.minsize(820, 750)
-app.title("Lector y Teleprompter con CosyVoice 3 (RTX 3090 Offline)")
+app.title("VocalizAR AI - Lector de Textos con IA & Teleprompter en Vivo")
 
 # ----------------- PANEL SUPERIOR (VOZ, IDIOMA Y PROSODIA) -----------------
 frame_superior = ctk.CTkFrame(app, corner_radius=8)
@@ -2334,7 +2334,7 @@ btn_limpiar_chat.pack(side="right")
 
 caja_chat = ctk.CTkTextbox(app, height=125, font=("Arial", 13), wrap="word", fg_color="#181824")
 caja_chat.pack(pady=5, padx=10, fill="both", expand=True)
-caja_chat.insert("end", "🚀 ¡Motor CosyVoice 3 (0.5B) listo en NVIDIA RTX 3090 (100% Offline)! Inferencia zero-shot y teleprompter activos.\n\n")
+caja_chat.insert("end", "🚀 ¡VocalizAR AI listo con CosyVoice 3 en GPU (100% Offline)! Inferencia zero-shot y teleprompter activos.\n\n")
 caja_chat.configure(state="disabled")
 habilitar_menu_contextual(caja_chat)
 

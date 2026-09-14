@@ -1,4 +1,5 @@
-# 🎙️ Lector de Textos con IA & Teleprompter en Vivo
+# 🎙️ VocalizAR AI
+### *Lector de Textos con IA, Clonación de Voz & Teleprompter en Vivo*
 
 Aplicación de escritorio moderna y de alto rendimiento para **Síntesis de Voz Neuronal Zero-Shot (TTS)**, clonación de voz instantánea y sincronización en tiempo real de **Teleprompter palabra por palabra**, impulsada por **CosyVoice 3** y **Faster-Whisper Large-v3** (100% Offline y acelerada en GPU NVIDIA).
 
@@ -113,7 +114,7 @@ Descarga los pesos de **CosyVoice-300M** o **CosyVoice 3** y colócalos dentro d
 ### Iniciar la Interfaz Gráfica
 Ejecuta el script principal:
 ```bash
-python "lector v5 con controles de reproduccion, ia y teleprompter.py"
+python vocalizar_ai.py
 ```
 *(O haz doble clic en `INICIAR.bat` en Windows)*.
 
@@ -131,12 +132,12 @@ python "lector v5 con controles de reproduccion, ia y teleprompter.py"
 
 ```
 lector-de-textos-con-ia/
-├── lector v5 con controles de reproduccion, ia y teleprompter.py  # Aplicación principal (GUI CustomTkinter)
-├── requirements.txt                                              # Lista de dependencias de Python
-├── INICIAR.bat                                                   # Lanzador rápido para Windows
-├── .gitignore                                                    # Exclusiones de Git (modelos, audios, temporales)
-├── README.md                                                     # Documentación del proyecto
-└── voces/                                                        # Carpeta para archivos de voz de referencia (.wav)
+├── vocalizar_ai.py       # Aplicación principal (GUI CustomTkinter VocalizAR AI)
+├── requirements.txt      # Lista de dependencias de Python
+├── INICIAR.bat           # Lanzador rápido para Windows
+├── .gitignore            # Exclusiones de Git (modelos, audios, temporales)
+├── README.md             # Documentación completa del proyecto
+└── voces/                # Carpeta para archivos de voz de referencia (.wav)
 ```
 
 ---
