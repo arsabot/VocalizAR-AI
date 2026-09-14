@@ -4,6 +4,21 @@ Aplicación de escritorio moderna y de alto rendimiento para **Síntesis de Voz 
 
 ---
 
+## 🎯 Problemas Clave que Resuelve
+
+### 🎓 1. Aprendizaje y Perfeccionamiento de Pronunciación en Idiomas (100% Gratuito y Sin Coste)
+Uno de los mayores desafíos al aprender un nuevo idioma es dominar la **pronunciación, acentuación y cadencia natural** sin tener que pagar costosas clases particulares, suscripciones mensuales a apps de idiomas ni créditos por caracteres en APIs comerciales en la nube:
+- **Inmersión con Voces Nativas Sin Coste:** Genera lectura fluida en múltiples idiomas (Inglés, Español, Portugués, Ruso, Francés, Alemán, Italiano, Japonés, Coreano, Chino) usando muestras de voz nativas reales de alta fidelidad.
+- **Técnica de *Shadowing* con Teleprompter:** Al sincronizar el texto resaltado palabra por palabra en tiempo real con el audio, el estudiante puede practicar lectura en voz alta y repetición simultánea con precisión fonética milimétrica.
+- **Desaceleración sin Distorsión de Tono:** Permite ralentizar la velocidad de reproducción (ej. a `0.7x` o `0.8x`) para analizar fonemas difíciles, entonaciones y ligaduras de palabras **sin que la voz se deforme ni suene distorsionada ("efecto ardilla")**.
+- **Generación Ilimitada y Privada:** Sin límites de palabras, sin conexión a internet obligatoria y con costo operativo cero.
+
+### 🎙️ 2. Creación de Contenido, Doblaje y Accesibilidad
+- **Locución Automatizada:** Generación instantánea de voces en off para videos de YouTube, podcasts, audiolibros o material educativo.
+- **Accesibilidad:** Lectura asistida de textos largos con visualización tipográfica de alto contraste para personas con dificultades visuales o de lectura.
+
+---
+
 ## ✨ Características Principales
 
 ### 🧠 1. Síntesis Neuronal Zero-Shot de Última Generación (CosyVoice 3)
