@@ -1,0 +1,14 @@
+# Dependencias principales del Lector de Textos con IA & Teleprompter
+customtkinter>=5.2.0
+pygame>=2.6.0
+soundfile>=0.12.1
+librosa>=0.10.0
+numpy>=1.24.0
+scipy>=1.10.0
+torch>=2.1.0
+torchaudio>=2.1.0
+faster-whisper>=1.0.0
+deep-translator>=1.11.4
+langdetect>=1.0.9
+num2words>=0.5.13
+inflect>=7.0.0

@@ -1,0 +1,74 @@
+# ==========================================
+# GitIgnore - Lector de Textos con IA & Teleprompter
+# ==========================================
+
+# Entornos virtuales de Python
+entorno_ia/
+venv/
+env/
+.venv/
+ENV/
+
+# Modelos y pesos de redes neuronales (Archivos pesados)
+modelos/
+models/
+CosyVoice/pretrained_models/
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.ckpt
+
+# Repositorios / Submódulos externos pesados
+CosyVoice/
+
+# Archivos de audio y voces (Temporales, referencias y exportados)
+temp_audios/
+Audios_Guardados/
+benchmark_resultados/
+voces/*
+!voces/.gitkeep
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aac
+voz_referencia.wav
+.optimizadas/
+.transcripciones/
+
+# Archivos temporales y respaldos
+*bak*
+*.bak*
+*.cosy3_bak
+*.tmp
+*.temp
+*.log
+
+# Bytecode y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Secretos, tokens y variables de entorno
+.env
+.env.*
+*.env
+*.secret
+*.token
+*.key
+*.pem
+secrets.json
+credentials.json
+
+# Configuraciones de IDE y Sistema Operativo
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
