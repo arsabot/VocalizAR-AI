@@ -1,4 +1,5 @@
-# 🎙️ VocalizAR AI
+# 🎙️ VocalizAR AI <img src="https://flagcdn.com/72x54/ar.png" width="24">
+
 ### *Lector de Textos con IA, Clonación de Voz & Teleprompter en Vivo*
 
 Aplicación de escritorio moderna y de alto rendimiento para **Síntesis de Voz Neuronal Zero-Shot (TTS)**, clonación de voz instantánea y sincronización en tiempo real de **Teleprompter palabra por palabra**, impulsada por **CosyVoice 3** y **Faster-Whisper Large-v3** (100% Offline y acelerada en GPU NVIDIA).
